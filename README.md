@@ -1,15 +1,15 @@
 # 💫 About Me:
 
-I am Miguel Menard, a full-time student at the University of British Columbia in Computer Engineering.
-
-I'm currently doing full-stack development for OnTheSpot!! --> https://www.onthespotvip.com
-I am learning Machine learning and AI in my free time
-I have an avid interest in Biotech, but I am generally fascinated by the multiple applications of artificial intelligence.
-
-My GitHub is mostly used for my school projects as most of my work has private source code. You can also find some older repositories I worked on when I started coding at 17 years old and also a fun project from a previous hackathon I did.
-
-If you want to contact me for anything please feel free to contact me on my LinkedIn, I am actively looking for a 12-month coop internship starting in May 2025.
-
+I am Miguel Menard, a full-time student at the University of British Columbia in Computer Engineering.<br>
+<br>
+I'm currently doing full-stack development for OnTheSpot!! --> https://www.onthespotvip.com<br>
+I am learning Machine learning and AI in my free time<br>
+I have an avid interest in Biotech, but I am generally fascinated by the multiple applications of artificial intelligence.<br>
+<br>
+My GitHub is mostly used for my school projects as most of my work has private source code. You can also find some older repositories I worked on when I started coding at 17 years old and also a fun project from a previous hackathon I did.<br>
+<br>
+If you want to contact me for anything please feel free to contact me on my LinkedIn, I am actively looking for a 12-month coop internship starting in May 2025.<br>
+<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-menard-18938a218) 
 
