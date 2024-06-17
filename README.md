@@ -2,7 +2,7 @@
 
 I am Miguel Menard, a full-time student at the University of British Columbia in Computer Engineering.<br>
 <br>
-I'm currently doing full-stack development for OnTheSpot!! --> https://www.onthespotvip.com<br>
+
 I am learning Machine learning and AI in my free time<br>
 I have an avid interest in Biotech, but I am generally fascinated by the multiple applications of artificial intelligence.<br>
 <br>
