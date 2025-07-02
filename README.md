@@ -5,13 +5,13 @@ Hi there! I'm **Miguel Ménard**, a passionate **Embedded Systems Engineer** and
 
 I am currently pursuing my studies at the University of British Columbia (UBC) in **Computer Engineering (CPEN)**, where I have been involved in various projects ranging from building AI-powered systems to developing efficient embedded solutions. I enjoy working on projects that push the boundaries of what technology can achieve and have a deep interest in developing privacy-centric, scalable, and modular solutions.
 
-When I’m not coding, you’ll find me exploring new tech trends, collaborating on open-source projects, or experimenting with innovative ideas in AI and hardware integration.
+When I’m not coding, you’ll usually find me hiking up the nearest mountain or running around
 
 ### Skills:
 - **Embedded Systems Development**
 - **AI/ML Integration & Training**
 - **Firmware Development**
-- **Node.js, Python, C/C++**
+- **React, Python, C/C++**
 - **RAG, LLMs, and AI Frameworks**
 - **Scalable System Architecture**
 
