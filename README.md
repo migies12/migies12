@@ -11,7 +11,7 @@ When I’m not coding, you’ll usually find me hiking up the nearest mountain o
 - **Embedded Systems Development**
 - **AI/ML Integration & Training**
 - **Firmware Development**
-- **React, Python, C/C++**
+- **React, Python, C/C++, Java, and moreeeee**
 - **RAG, LLMs, and AI Frameworks**
 - **Scalable System Architecture**
 
